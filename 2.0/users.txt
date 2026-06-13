@@ -1,0 +1,7 @@
+1 admin password 2
+2 student1 123 0
+3 teacher1 123 1
+4 ШќТо 111 0
+5 zh 123456 0
+6 teacher 123456 1
+7 zh 123456 0
